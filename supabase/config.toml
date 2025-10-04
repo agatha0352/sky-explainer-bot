@@ -1,0 +1,4 @@
+project_id = "fmxpqxfbikfgdffokydq"
+
+[functions.identify-celestial]
+verify_jwt = false
